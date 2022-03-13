@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/acidlake/sveltekit-cli.git"
   },
+  "bugs": {
+    "url": "git+https://github.com/acidlake/sveltekit-cli/issues"
+  },
   "keywords": [
     "sveltekit",
     "cli",
