@@ -1,6 +1,6 @@
 {
   "name": "acidlake-sveltekit-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SvelteKit CLI to help you create Components, UI Components, Utils, Data, Constants, Core Functions, Stores and many more.",
   "main": "./bin/index.js",
   "bin": {

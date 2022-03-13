@@ -11,32 +11,32 @@ const { questions, questionsTs, questionFolder, questionDynamic } = require('./u
 const paths = {
   components: {
     template: `${path}/templates/component/`,
-    path: `src/lib/shared/components/`,
-    uiPath: `src/lib/shared/ui/components/`,
+    path: `${path}/src/lib/shared/components/`,
+    uiPath: `${path}/src/lib/shared/ui/components/`,
   },
   routes: {
     template: `${path}/templates/route/`,
-    path: `src/lib/routes/`,
+    path: `${path}/src/lib/routes/`,
   },
   store: {
     template: `${path}/templates/store/`,
-    path: `src/lib/stores/`,
+    path: `${path}/src/lib/stores/`,
   },
   util: {
     template: `${path}/templates/util/`,
-    path: `src/lib/utils/`,
+    path: `${path}/src/lib/utils/`,
   },
   constant: {
     template: `${path}/templates/constant/`,
-    path: `src/lib/core/constants/`,
+    path: `${path}/src/lib/core/constants/`,
   },
   core: {
     template: `${path}/templates/core/`,
-    path: `src/lib/core/functions/`,
+    path: `${path}/src/lib/core/functions/`,
   },
   data: {
     template: `${path}/templates/data/`,
-    path: `src/lib/data/`,
+    path: `${path}/src/lib/data/`,
   }
 }
 
