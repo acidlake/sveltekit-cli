@@ -6,6 +6,7 @@
   "bin": {
     "kitcli": "./bin/index.js"
   },
+  "homepage": "https://github.com/acidlake/sveltekit-cli/issues#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
